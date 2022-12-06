@@ -1,0 +1,4 @@
+format_code_in_doc_comments = true
+doc_comment_code_block_width = 2000
+# Uncomment to make this format
+#max_width = 101
